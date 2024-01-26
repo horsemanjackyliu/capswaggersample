@@ -30,6 +30,10 @@ cds add data
 
 npm add --save-dev cds-swagger-ui-express
 
+npm install
+
+cds watch
+
 
 You need a server.js file to integrate it in the bootstrap process:
 
