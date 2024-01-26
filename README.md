@@ -24,6 +24,8 @@ File or Folder | Purpose
 
 cds init bookstore
 
+cd bookstore
+
 cds add samples
 
 cds add data
