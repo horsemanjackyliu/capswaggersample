@@ -23,9 +23,13 @@ File or Folder | Purpose
 ## Steps to create the app
 
 cds init bookstore
+
 cds add samples
+
 cds add data
+
 npm add --save-dev cds-swagger-ui-express
+
 
 You need a server.js file to integrate it in the bootstrap process:
 
